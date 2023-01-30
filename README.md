@@ -5,10 +5,10 @@
 - 📫 How to reach me: Telegram: @sunny_solaire ,  Email: fms160602@gmail.com
 
 Repos I am proud of:
-Python:
+Python: <br>
 https://github.com/Fithanso/Train-ticket-sales-service
-
+<br>
 https://github.com/Fithanso/TrainerShop
-
-PHP (old one):
+<br>
+PHP (old one): <br>
 https://github.com/Fithanso/Raindrop-CMS
